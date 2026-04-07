@@ -7,6 +7,7 @@ public class Tree_Set {
         tset.add(120);
         tset.add(130);
         tset.add(110);
+        tset.add(180);
         
 
         System.out.println(tset);
